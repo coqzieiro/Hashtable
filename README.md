@@ -26,7 +26,7 @@ A escolha da Hashtable para representar conjuntos é justificada pelos seguintes
 
 - Operações Específicas de Conjuntos: <br/>
 -> União (conj_uniao): O(n) no pior caso, pois é necessário percorrer ambos os conjuntos. <br/>
--> Interseção (conj_interseccao): O(n) no pior caso, pois percorre o menor conjunto. <br/>
+-> Intersecção (conj_interseccao): O(n) no pior caso, pois percorre o menor conjunto. <br/>
 -> Impressão (conj_imprimir): O(n log n) devido à necessidade de ordenação antes da impressão. <br/>
 
 Conclusão: <br/>
